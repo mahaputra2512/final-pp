@@ -2,6 +2,7 @@ import streamlit as st
 
 def dataset_page():
     st.title("Informasi Dataset")
+    st.title("Link Dataset : https://www.kaggle.com/datasets/nandanp6/cataract-image-dataset")
     st.write("""
         **Dataset Mata Katarak**
 
